@@ -33,5 +33,5 @@
       //]]>
 	/*
 	var url_popup = 'http://vietsunblinds.com/';
-	<script src="https://jgoogle.googlecode.com/svn/trunk/popup.js"></script>
+	<script src="https://rawgithub.com/nguyenvu90/cssis/master/Poupan.js"></script>
 	*/
